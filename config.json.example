@@ -1,0 +1,4 @@
+{
+    "access_token": "YOUTUBE_API_KEY",
+    "ffmpegPath": "path/to/ffmpeg.exe"
+}
